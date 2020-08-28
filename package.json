@@ -1,3 +1,6 @@
 {
+  "workspaces": [
+    "lib"
+  ],
   "name": "bug-yarn-run"
 }
